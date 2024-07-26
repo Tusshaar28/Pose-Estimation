@@ -1,0 +1,133 @@
+Sitting 1
+Left Elbow Angle: 139.12
+Right Elbow Angle: 131.37
+Left Shoulder Angle: 1.83
+Right Shoulder Angle: 356.62
+Left Knee Angle: 253.50
+Right Knee Angle: 260.99
+
+Sitting 2
+Left Elbow Angle: 127.51
+Right Elbow Angle: 29.98
+Left Shoulder Angle: 50.98
+Right Shoulder Angle: 298.62
+Left Knee Angle: 271.01
+Right Knee Angle: 274.55
+
+Sitting 3
+Left Elbow Angle: 107.37
+Right Elbow Angle: 103.50
+Left Shoulder Angle: 1.47
+Right Shoulder Angle: 3.95
+Left Knee Angle: 283.42
+Right Knee Angle: 272.11
+
+St4
+Left Elbow Angle: 148.45
+Right Elbow Angle: 97.24
+Left Shoulder Angle: 7.46
+Right Shoulder Angle: 13.36
+Left Knee Angle: 280.89
+Right Knee Angle: 254.57
+
+Standing
+1
+Left Elbow Angle: 192.52
+Right Elbow Angle: 166.29
+Left Shoulder Angle: 15.12
+Right Shoulder Angle: 15.75
+Left Knee Angle: 180.74
+Right Knee Angle: 176.76
+
+2
+Left Elbow Angle: 176.81
+Right Elbow Angle: 182.50
+Left Shoulder Angle: 338.16
+Right Shoulder Angle: 339.48
+Left Knee Angle: 177.69
+Right Knee Angle: 183.43
+
+3.
+Left Elbow Angle: 163.50
+Right Elbow Angle: 158.20
+Left Shoulder Angle: 354.66
+Right Shoulder Angle: 2.10
+Left Knee Angle: 172.41
+Right Knee Angle: 171.37
+
+4.
+Left Elbow Angle: 236.53
+Right Elbow Angle: 64.74
+Left Shoulder Angle: 333.25
+Right Shoulder Angle: 29.33
+Left Knee Angle: 185.88
+Right Knee Angle: 117.10
+
+Sleeping
+1
+Left Elbow Angle: 304.87
+Right Elbow Angle: 333.30
+Left Shoulder Angle: 318.71
+Right Shoulder Angle: 25.40
+Left Knee Angle: 156.71
+Right Knee Angle: 154.73
+2
+Left Elbow Angle: 263.45
+Right Elbow Angle: 266.46
+Left Shoulder Angle: 317.65
+Right Shoulder Angle: 33.82
+Left Knee Angle: 111.37
+Right Knee Angle: 126.86
+3
+Left Elbow Angle: 6.34
+Right Elbow Angle: 6.36
+Left Shoulder Angle: 355.08
+Right Shoulder Angle: 16.27
+Left Knee Angle: 300.56
+Right Knee Angle: 189.96
+
+4
+Left Elbow Angle: 303.30
+Right Elbow Angle: 60.42
+Left Shoulder Angle: 38.19
+Right Shoulder Angle: 36.57
+Left Knee Angle: 180.15
+Right Knee Angle: 178.35
+5
+Left Elbow Angle: 282.67
+Right Elbow Angle: 216.32
+Left Shoulder Angle: 291.35
+Right Shoulder Angle: 325.72
+Left Knee Angle: 54.96
+Right Knee Angle: 175.66
+
+Walking
+1
+Left Elbow Angle: 206.86
+Right Elbow Angle: 222.22
+Left Shoulder Angle: 36.44
+Right Shoulder Angle: 13.80
+Left Knee Angle: 165.54
+Right Knee Angle: 178.97
+2
+Left Elbow Angle: 125.38
+Right Elbow Angle: 167.87
+Left Shoulder Angle: 14.30
+Right Shoulder Angle: 14.96
+Left Knee Angle: 185.73
+Right Knee Angle: 192.64
+3
+Left Elbow Angle: 180.87
+Right Elbow Angle: 202.75
+Left Shoulder Angle: 347.57
+Right Shoulder Angle: 338.09
+Left Knee Angle: 178.49
+Right Knee Angle: 181.76
+4
+Left Elbow Angle: 203.92
+Right Elbow Angle: 178.99
+Left Shoulder Angle: 21.39
+Right Shoulder Angle: 14.00
+Left Knee Angle: 186.31
+Right Knee Angle: 175.38
+
